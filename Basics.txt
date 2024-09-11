@@ -1,0 +1,1 @@
+Only after you have added all the files in the index, You can commit them to the local repo
